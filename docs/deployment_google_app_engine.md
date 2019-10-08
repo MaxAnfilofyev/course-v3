@@ -9,6 +9,7 @@ This is a quick guide to deploy your trained models using the Google App Engine 
 
 ## Grab Google App Engine starter pack for model deployment
 
+On your local workstation, execute the following code in your command tool of choice
 ```bash
 wget https://github.com/fastai/course-v3/raw/master/docs/production/google-app-engine.zip
 
